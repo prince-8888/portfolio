@@ -227,12 +227,12 @@
 }
 @media screen and (max-width:420px){
     .pic{
-        height: 11rem;
-        width: 11rem;
+        height: 15rem;
+        width: 15rem;
 
       }
       .princeverma{
-        font-size: 30px;
+        font-size: 33px;
       }
       h2{
         font-size: 1.1rem;
@@ -246,4 +246,9 @@
       .uiuxText, .backendText, .frontendText{
         font-size: 12px;
       }
+     .Email, .name, .message, .number{
+        font-size: 14px;
+    
+        /* text-align: center; */
+    }
 }
