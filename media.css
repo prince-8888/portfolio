@@ -103,7 +103,7 @@
         font-size: 30px;
     }
     .princeverma{
-        font-size: 2.3rem;
+        font-size: 2.5rem;
         margin: auto;
     }
     .animation{
@@ -113,11 +113,11 @@
         overflow: hidden;
     }
     .pic{
-      height: 15rem;
-      width: 15rem;
+      height: 17rem;
+      width: 17rem;
     }
     .button{
-        font-size: 13px;
+        font-size: 15px;
         width: 100%;
     }
     .icons{
@@ -188,7 +188,7 @@
     .Email, .name, .message, .number{
         height: 12px;
         border: 2px solid orange;
-        font-size: 10px;
+        font-size: 12px;
         width: 100%;
         /* text-align: center; */
     }
