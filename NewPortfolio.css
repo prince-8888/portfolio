@@ -448,7 +448,7 @@ h3{
 }
 
 .img8{
-    background-image: url(weather.png)
+    background-image: url(weather.png);
     background-size: cover;
     background-position: center;
 }
